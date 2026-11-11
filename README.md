@@ -12,14 +12,14 @@ e-badge&logo=read-the-docs&logoColor=white)](LINK_DO_PDF_OU_SITE) -->
 
 ---
 
-### 󰞵 Sobre
+### Sobre
 Atualmente cursando o 2º período de ADS na UNICID. Gosto de aprender e tenho muita curiosidade de saber como as coisas realmente funcionam...Tenho interesse em `Cybersegurança` e `desenvolvimento de software`.
 * **Habilidades Técnicas:** Java - SpringBoot | HTML,CSS,JS - REACT | Git | SQL.
 * **Habilidades Socioemocionais:** comunicação, proatividade, trabalho em equipe, pensamento crítico.
 * **Experiência/Projetos Relevantes:** Atuei no projeto `JUSTFORYOU` uma plataforma de recomendação de filmes, séries e animes com base em `Inteligência Artificial` para `TCC` do curso técnico em Análise e Desenvolvimento de Sistemas. Fiquei responsável pelo desenvolvimento integral do sistema backend: API em `Java 21 Spring Boot`, no qual desenvolvi: Entidades, Controllers, Services, DTOs, Exceptions, Validações, infraestrutura de autenticação/autorização com JWT, hospedagem em cloud Azure. Obtive participação no desenvolvimento front com `REACT`, na implementação do modelo de chatbot com `Node.js`, e na modelagem do banco de dados.
 ---
-### 🛠 Minhas Ferramentas Favoritas
-#### 💻 Linguagens e Tecnologias
+### 💻 Minhas Ferramentas Favoritas
+#### Linguagens e Tecnologias
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -27,13 +27,13 @@ Atualmente cursando o 2º período de ADS na UNICID. Gosto de aprender e tenho m
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-#### 🗄 Frameworks
+#### Frameworks
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Bootstrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)
 
-#### 🗄 Feramentas
+#### Feramentas
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/Insomnia-4000BF.svg?style=for-the-badge&logo=Insomnia&logoColor=white)
@@ -44,7 +44,7 @@ Atualmente cursando o 2º período de ADS na UNICID. Gosto de aprender e tenho m
 ![Windows](https://img.shields.io/badge/Windows-0078D6.svg?style=for-the-badge&logo=Windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=Linux&logoColor=black)
 
-#### 🗄 Banco de Dados
+#### Banco de Dados
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
 #### 🤖 Cloud
@@ -53,7 +53,7 @@ Atualmente cursando o 2º período de ADS na UNICID. Gosto de aprender e tenho m
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ---
 ### 📂 Portfólio de Projetos
-#### 󰳕 Desenvolvimento Front-End para Web
+#### Desenvolvimento Front-End para Web
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
 | **Site Básico em HTML5** | Criação de site básico com 5 páginas emHTML5. | [Ver Projeto](./AT1-Paginas-HTML/) |
@@ -63,12 +63,12 @@ Atualmente cursando o 2º período de ADS na UNICID. Gosto de aprender e tenho m
 | **Desenvolvimento com IA** | Copilotando o desenvolvimento front-end com IA. | [Ver Projeto](./AT5-Front-End-Copilotado-com-IA/) |
 
 
-#### 🗃 Modelagem de Banco de Dados
+####  Modelagem de Banco de Dados
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
 | **Sistema ERP - Gestão Operacional e Vendas - Restaurante** | Documento de Requisitos, Modelagem ER e Scripts SQL. | [Ver Projeto](./Projeto-ERP-Banco_de_Dados/) |
 ---
-### 🏗 Estrutura do Repositório
+###  Estrutura do Repositório
 Abaixo, a organização deste repositório para facilitar a navegação:
 - `root/`: Arquivo de apresentação principal.
 - `/projeto-nome/`: Pasta contendo o código-fonte, documentação e o
