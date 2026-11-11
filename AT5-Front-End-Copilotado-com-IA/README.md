@@ -110,4 +110,14 @@ O OnLife busca incentivar a conscientização sobre o uso equilibrado da interne
 
 ---
 
+### Hospedagem
+
+É possível conferior o site publicado no github pages através do link: 
+- [OnLife](https://thiago-p-sampaio.github.io/OnLife-boostrapAI_page/index.html)
+- [Repositório](https://github.com/Thiago-P-Sampaio/OnLife-boostrapAI_page)
+
+---
 **Projeto acadêmico desenvolvido como atividade universitária.**
+---
+
+[Voltar ao principal](./../README.md)

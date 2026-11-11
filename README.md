@@ -16,19 +16,33 @@ e-badge&logo=read-the-docs&logoColor=white)](LINK_DO_PDF_OU_SITE) -->
 Atualmente cursando o 2º período de ADS na UNICID. Gosto de aprender e tenho muita curiosidade de saber como as coisas realmente funcionam...Tenho interesse em `Cybersegurança` e `desenvolvimento de software`.
 * **Habilidades Técnicas:** Java - SpringBoot | HTML,CSS,JS - REACT | Git | SQL.
 * **Habilidades Socioemocionais:** comunicação, proatividade, trabalho em equipe, pensamento crítico.
-* **Experiência/Projetos Relevantes:** Atuei no projeto `JUSTFORYOU` uma plataforma de recomendação de filmes, séries e animes com base em `Inteligência Artificial` para `TCC` do curso técnico em Análise e Desenvolvimento de Sistemas. Fiquei responsável pelo desenvolvimento integral do sistema backend: API em Java 21 Spring Boot, no qual desenvolvi: Entidades, Controllers, Services, DTOs, Execptions, Validações, infraestrutura de autenticação/autorização com JWT, hospedagem em cloud Azure. Obtive participação no desenvolvimento front com `REACT`, na implementação do modelo de chatbot com Node.js, e na modelagem do banco de dados.
+* **Experiência/Projetos Relevantes:** Atuei no projeto `JUSTFORYOU` uma plataforma de recomendação de filmes, séries e animes com base em `Inteligência Artificial` para `TCC` do curso técnico em Análise e Desenvolvimento de Sistemas. Fiquei responsável pelo desenvolvimento integral do sistema backend: API em `Java 21 Spring Boot`, no qual desenvolvi: Entidades, Controllers, Services, DTOs, Exceptions, Validações, infraestrutura de autenticação/autorização com JWT, hospedagem em cloud Azure. Obtive participação no desenvolvimento front com `REACT`, na implementação do modelo de chatbot com `Node.js`, e na modelagem do banco de dados.
 ---
 ### 🛠 Minhas Ferramentas Favoritas
 #### 💻 Linguagens e Tecnologias
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 #### 🗄 Frameworks
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Bootstrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)
+
+#### 🗄 Feramentas
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white)
+![Insomnia](https://img.shields.io/badge/Insomnia-4000BF.svg?style=for-the-badge&logo=Insomnia&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=IntelliJIDEA&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC.svg?style=for-the-badge&logo=VisualStudioCode&logoColor=white)
+
+### Sistemas Operacionais:
+![Windows](https://img.shields.io/badge/Windows-0078D6.svg?style=for-the-badge&logo=Windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=Linux&logoColor=black)
 
 #### 🗄 Banco de Dados
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
@@ -59,3 +73,5 @@ Abaixo, a organização deste repositório para facilitar a navegação:
 - `root/`: Arquivo de apresentação principal.
 - `/projeto-nome/`: Pasta contendo o código-fonte, documentação e o
 README específico do projeto acadêmico.
+
+[Voltar ao Topo](#thiago-pereira-sampaio)

@@ -77,3 +77,6 @@ Declaramos o uso de `IA Generativa` como: GPT, Gemini e Claude no apoio ao desen
 ---
 
 [Voltar ao Topo](#índice-de-navegação)
+---
+
+[Voltar ao principal](./../README.md)
