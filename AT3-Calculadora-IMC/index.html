@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Calculadora de IMC</title>
+</head>
+<body>
+    <style>
+        html {
+            display: flex;
+            width: 100%;
+            height: 100%;
+            justify-content: center;
+            align-items: center;
+        }
+        img {
+            display: block;
+        }
+    </style>
+    <h1>Calculadora de IMC</h1>
+    <p>Informe sua altura em Metros e seu peso em KG, utilize "." ao invés de "," para valores decimais</p>
+    <input type="text"  id="inpt-altura" placeholder="Altura em metros">
+    <input type="number"  id="inpt-peso"   placeholder="Peso em KG" max="120">
+    <button type="button" onclick="calcularImc()">Calcule agora!</button>
+    <p id="mensagem"></p>
+    <img src="https://bariatricaflorianopolis.com.br/wp-content/uploads/2017/06/Tabela-de-IMC-dos-Graus-de-obesidade.png" alt="Tabela de IMC">
+
+    <script>
+        function calcularImc() {
+            var altura, peso, texto, imc;
+            altura = document.getElementById('inpt-altura').value;
+            peso = document.getElementById('inpt-peso').value;
+
+            if(!isNaN(altura) && !isNaN(peso)){
+                imc = peso / (altura**2);
+                texto = `Seu IMC é ${imc.toFixed(2)}  kg/m²`
+                if(imc < 18.5){ texto += `<br> Abaixo do peso`;}
+                if(imc >= 18.5 && imc <= 24.9){ texto += `<br> Peso normal`;}
+                if(imc >= 25 && imc <= 29.9){ texto += `<br> Sobrepeso`;}
+                if(imc >= 30 && imc <= 34.9){ texto += `<br> Obesidade nível 1`;}
+                if(imc >= 35 && imc <= 39.9){ texto += `<br> Obesidade nível 2`;}
+                if(imc >= 40){ texto += `<br> Obesidade nível 3`;}
+            }
+             else {
+                texto = "Dados inválidos, informe corretamente! "
+             }
+            document.getElementById('mensagem').innerHTML = texto
+        }
+    </script>
+</body>
+</html>
